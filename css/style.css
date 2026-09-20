@@ -254,3 +254,4 @@ button,.btn,.product-card,.category-card,.contact-card{transition:transform .22s
 .section-char{padding:90px 0}
 .burn{display:flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:var(--soft);color:var(--orange);font:800 18px Manrope}
 @media(max-width:600px){.section-char{padding:70px 0}}
+.slide video{width:100%;height:100%;object-fit:cover}
